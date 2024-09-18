@@ -1,0 +1,10 @@
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\bin\Debug\AsignacionAsiento.exe.config
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\bin\Debug\AsignacionAsiento.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\bin\Debug\AsignacionAsiento.pdb
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.csproj.AssemblyReference.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.AsignarAsientos.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.Properties.Resources.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.csproj.GenerateResource.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 2\AsignacionAsiento\obj\Debug\AsignacionAsiento.pdb
