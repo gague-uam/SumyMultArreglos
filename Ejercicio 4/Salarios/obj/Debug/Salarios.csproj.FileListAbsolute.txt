@@ -1,0 +1,10 @@
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.csproj.AssemblyReference.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.Form1.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.Properties.Resources.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.csproj.GenerateResource.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\bin\Debug\Salarios.exe.config
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\bin\Debug\Salarios.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\bin\Debug\Salarios.pdb
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 4\Salarios\obj\Debug\Salarios.pdb
