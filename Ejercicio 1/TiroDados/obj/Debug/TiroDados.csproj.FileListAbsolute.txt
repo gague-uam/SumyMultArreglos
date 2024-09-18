@@ -1,0 +1,10 @@
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\bin\Debug\TiroDados.exe.config
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\bin\Debug\TiroDados.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\bin\Debug\TiroDados.pdb
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.csproj.AssemblyReference.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.Form1.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.Properties.Resources.resources
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.csproj.GenerateResource.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.exe
+C:\Users\Kagab\Desktop\SumyMultArreglos\Ejercicio 1\TiroDados\obj\Debug\TiroDados.pdb
